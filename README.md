@@ -4,7 +4,6 @@
 This project focuses on applying basic statistical concepts using the Pizza Sales dataset.
 The analysis is done using Python to understand sales patterns and data behavior.
 
----
 
 ## 🎯 Objectives
 - Understand population and sampling
@@ -14,12 +13,11 @@ The analysis is done using Python to understand sales patterns and data behavior
 - Identify outliers using Z-Score
 - Derive simple business insights
 
----
+
 
 ## 📁 Dataset
 - Pizza Sales Dataset
 
----
 
 ## 🧩 Analysis Performed
 
@@ -52,7 +50,6 @@ The analysis is done using Python to understand sales patterns and data behavior
 - Importance of normal distribution
 - Use of Z-Score in finding unusual values
 
----
 
 ## 🛠 Tools Used
 - Python
@@ -60,7 +57,6 @@ The analysis is done using Python to understand sales patterns and data behavior
 - Matplotlib
 - SciPy
 
----
 
 ## 📂 Files Included
 - Jupyter Notebook (.ipynb)
